@@ -1,7 +1,7 @@
-## Grant Gupton Dev Team
+# Grant Gupton Dev Team
 Welcome to the dev team home page. You can find resources for our projects below:
 
-### Development Cycle
+## Development Cycle
 1. Everything starts with a ticket. Checkout a new branch from the develop branch for that ticket in the following format:
   - issue#/username (for example, issue20/grantg2020)
   - Note: This can be done automatically by using VS Code tools in the GitHub tab
@@ -10,8 +10,8 @@ Welcome to the dev team home page. You can find resources for our projects below
 4. When a release is ready, submit a pull request from develop to staging.
 5. When a production release is ready, a pull request will be submitted from staging to main (prod).
 
-### Flutter
-## Issues
+## Flutter
+### Issues
 - ### FIRStorageHandle Error
 Issue: 
 `Declaration of 'FIRStorageHandle' must be imported from module 'FirebaseStorage.FIRStorageTypedefs' before it is required`
@@ -19,5 +19,5 @@ Issue:
 Solutions:
 - `flutter clean && flutter pub get && flutter pub upgrade && cd ios/ && pod install --repo-update`
 
-### Angular
+## Angular
 _Nothing added yet_
