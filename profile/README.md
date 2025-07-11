@@ -1,2 +1,2 @@
-# Stratus Software Co
+# Stratus Software LLC
 [Website](https://stratussoftwareco.com)
